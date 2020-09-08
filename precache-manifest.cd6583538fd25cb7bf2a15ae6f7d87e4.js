@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d796b7651206b8fea8b15e99fab715b",
+    "revision": "76ec9258f7b118b797dbbd013a8c71b3",
     "url": "/JuanJoseMirandaM/juanjose.site/index.html"
   },
   {
-    "revision": "5dce10e9e6abf08c0576",
+    "revision": "bcc91d15669122e53b78",
     "url": "/JuanJoseMirandaM/juanjose.site/static/css/main.b45aaca7.chunk.css"
   },
   {
-    "revision": "5f1b41bd60434ce924c8",
-    "url": "/JuanJoseMirandaM/juanjose.site/static/js/2.f686194c.chunk.js"
+    "revision": "c5a714568ce6a45bd958",
+    "url": "/JuanJoseMirandaM/juanjose.site/static/js/2.67254b9e.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/JuanJoseMirandaM/juanjose.site/static/js/2.f686194c.chunk.js.LICENSE.txt"
+    "url": "/JuanJoseMirandaM/juanjose.site/static/js/2.67254b9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dce10e9e6abf08c0576",
-    "url": "/JuanJoseMirandaM/juanjose.site/static/js/main.5bb02732.chunk.js"
+    "revision": "bcc91d15669122e53b78",
+    "url": "/JuanJoseMirandaM/juanjose.site/static/js/main.fd406bc0.chunk.js"
   },
   {
-    "revision": "e89f108e1fa4368f25ef",
-    "url": "/JuanJoseMirandaM/juanjose.site/static/js/runtime-main.f11bacad.js"
+    "revision": "d5accc422d234d0fba7c",
+    "url": "/JuanJoseMirandaM/juanjose.site/static/js/runtime-main.e3687e9c.js"
   },
   {
     "revision": "05a0e905ff405c118400096ffa61f7b7",

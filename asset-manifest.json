@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/JuanJoseMirandaM/juanjose.site/static/css/main.b45aaca7.chunk.css",
-    "main.js": "/JuanJoseMirandaM/juanjose.site/static/js/main.5bb02732.chunk.js",
-    "main.js.map": "/JuanJoseMirandaM/juanjose.site/static/js/main.5bb02732.chunk.js.map",
-    "runtime-main.js": "/JuanJoseMirandaM/juanjose.site/static/js/runtime-main.f11bacad.js",
-    "runtime-main.js.map": "/JuanJoseMirandaM/juanjose.site/static/js/runtime-main.f11bacad.js.map",
-    "static/js/2.f686194c.chunk.js": "/JuanJoseMirandaM/juanjose.site/static/js/2.f686194c.chunk.js",
-    "static/js/2.f686194c.chunk.js.map": "/JuanJoseMirandaM/juanjose.site/static/js/2.f686194c.chunk.js.map",
+    "main.js": "/JuanJoseMirandaM/juanjose.site/static/js/main.fd406bc0.chunk.js",
+    "main.js.map": "/JuanJoseMirandaM/juanjose.site/static/js/main.fd406bc0.chunk.js.map",
+    "runtime-main.js": "/JuanJoseMirandaM/juanjose.site/static/js/runtime-main.e3687e9c.js",
+    "runtime-main.js.map": "/JuanJoseMirandaM/juanjose.site/static/js/runtime-main.e3687e9c.js.map",
+    "static/js/2.67254b9e.chunk.js": "/JuanJoseMirandaM/juanjose.site/static/js/2.67254b9e.chunk.js",
+    "static/js/2.67254b9e.chunk.js.map": "/JuanJoseMirandaM/juanjose.site/static/js/2.67254b9e.chunk.js.map",
     "index.html": "/JuanJoseMirandaM/juanjose.site/index.html",
-    "precache-manifest.9ef3f84531616c20be0293312cb91b35.js": "/JuanJoseMirandaM/juanjose.site/precache-manifest.9ef3f84531616c20be0293312cb91b35.js",
+    "precache-manifest.cd6583538fd25cb7bf2a15ae6f7d87e4.js": "/JuanJoseMirandaM/juanjose.site/precache-manifest.cd6583538fd25cb7bf2a15ae6f7d87e4.js",
     "service-worker.js": "/JuanJoseMirandaM/juanjose.site/service-worker.js",
     "static/css/main.b45aaca7.chunk.css.map": "/JuanJoseMirandaM/juanjose.site/static/css/main.b45aaca7.chunk.css.map",
-    "static/js/2.f686194c.chunk.js.LICENSE.txt": "/JuanJoseMirandaM/juanjose.site/static/js/2.f686194c.chunk.js.LICENSE.txt",
+    "static/js/2.67254b9e.chunk.js.LICENSE.txt": "/JuanJoseMirandaM/juanjose.site/static/js/2.67254b9e.chunk.js.LICENSE.txt",
     "static/media/paper-kit.scss?v=1.2.0": "/JuanJoseMirandaM/juanjose.site/static/media/nucleo-icons.f32ed5ad.eot",
     "static/media/inicio.jpg": "/JuanJoseMirandaM/juanjose.site/static/media/inicio.1e2d956d.jpg",
     "static/media/python.jpg": "/JuanJoseMirandaM/juanjose.site/static/media/python.a922fe6c.jpg",
     "static/media/vsc.jpg": "/JuanJoseMirandaM/juanjose.site/static/media/vsc.8cf6ad3e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f11bacad.js",
-    "static/js/2.f686194c.chunk.js",
+    "static/js/runtime-main.e3687e9c.js",
+    "static/js/2.67254b9e.chunk.js",
     "static/css/main.b45aaca7.chunk.css",
-    "static/js/main.5bb02732.chunk.js"
+    "static/js/main.fd406bc0.chunk.js"
   ]
 }
